@@ -10,5 +10,14 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"author": "Dalton Ma",
+	"description": "Learning NPM",
+	"keywords": [
+		"education",
+		"nodejs",
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "0.1"
 }
